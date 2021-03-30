@@ -1,6 +1,6 @@
 # Python
 
-Salut Morgan, tu es maintenant 5ans plus vieux qu'au moment tu as écris celà.
+Salut Morgan, tu es maintenant 5ans plus vieux au moment où tu lis cela.
 Tu étais actuellement en présence de Hugo Vincens y Clément Stitah.
 
 
